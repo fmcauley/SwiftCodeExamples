@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Guards'/>
+        <page name='Function Parameters'/>
+        <page name='Extensions'/>
+        <page name='HigherOrderFunctions'/>
+        <page name='ClosureExpression'/>
+        <page name='Generics'/>
+        <page name='Enumerations'/>
+        <page name='EnumByValue'/>
+        <page name='EnumErrorType'/>
+        <page name='EnumOptionSets'/>
+        <page name='Struct'/>
+        <page name='StructComputedProperties'/>
+        <page name='StructWillSetDidSet'/>
+        <page name='Vertex'/>
+        <page name='StructFunctions'/>
+        <page name='Struct Access Levels'/>
+        <page name='Protocol'/>
+        <page name='Protocol Custom Operators'/>
+        <page name='Classes Base Class'/>
+        <page name='Class Initializers'/>
+        <page name='Class Subclasses'/>
+        <page name='Class Optional Property Values'/>
+        <page name='Class Failable Initializers'/>
+        <page name='Required Initializers'/>
+        <page name='Classes Optional Chaining'/>
+        <page name='Classes Loading Unloading'/>
+        <page name='Classes Composition'/>
+    </pages>
+</playground>
